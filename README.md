@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gspagare03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1InEzeWZKA5V93nFtlW6DAi7PSpCItZMs/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cknZueBpnmu814A54Y1MLPYgr8EBASCX/view?usp=drive_link)
 
 - 🖥️ Check out my portfolio [Gaurav Pagare](https://gauravpagare.netlify.app/)
 
