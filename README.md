@@ -40,12 +40,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-brightgreen)
-![AWS](https://img.shields.io/badge/Cloud-AWS|GCP|Azure-blue)
+![AWS](https://img.shields.io/badge/Cloud-AWS|GCP)
 
 **CMS & E-Commerce**  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=flat&logo=wix&logoColor=white)
 
 ---
 
