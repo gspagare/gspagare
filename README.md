@@ -1,107 +1,132 @@
-<h1 align="center">Hi 👋, I'm Gaurav Pagare</h1>
-<h3 align="center">Passionate Full Stack Developer & Deep Learning Enthusiast from India</h3>
+<h1 align="center">👨💻 Hi, I'm Gaurav Pagare</h1>
+<h3 align="center">Full Stack Developer | Deep Learning Practitioner | DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gspagare&label=Profile%20views&color=0e75b6&style=flat" alt="gspagare" /> </p>
-
-- 🌱 Currently mastering **DevOps tools (Docker, Jenkins) and advancing PHP/MySQL**
-
-- 👨💻 All my projects are available at [My Portfolio](https://gauravpagare.netlify.app/)
-
-- 💬 Ask me about **Web Development, React, WordPress, and Deep Learning**
-
-- 📫 Reach me at **gspagare03@gmail.com**
-
-- 📄 Explore my [Resume](https://drive.google.com/file/d/1cknZueBpnmu814A54Y1MLPYgr8EBASCX/view)
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://x.com/gauravpagare_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravspagare" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gauravspagare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravspagare" height="30" width="40" /></a>
-  <a href="https://instagram.com/gauravspagare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravspagare" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://gauravpagare.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/gauravspagare/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://drive.google.com/file/d/1cknZueBpnmu814A54Y1MLPYgr8EBASCX/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
 </p>
 
-<h3 align="left">Technical Arsenal:</h3>
-<h3 align="left">🚀 Technical Stack</h3>
+---
 
-**Core Development**  
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
+### 🛠️ Technical Arsenal
+
+**Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**  
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-</p>
-
-**DevOps & Cloud**  
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/CI/CD-Pipeline-brightgreen" alt="CI/CD">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20GCP%20|%20Azure-blue" alt="Cloud">
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **AI/ML & Research**  
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/Deep Learning-RNN | CNN | InceptionV3-important" alt="DL">
-  <img src="https://img.shields.io/badge/Research-Paper Publications-success" alt="Research">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-RNN|CNN|InceptionV3-important)
+![Research Papers](https://img.shields.io/badge/Publications-2%20Journal_Papers-success)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-brightgreen)
+![AWS](https://img.shields.io/badge/Cloud-AWS|GCP|Azure-blue)
 
 **CMS & E-Commerce**  
-<p align="left">
-  <a href="https://wordpress.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/WooCommerce-Expert-96588a" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/Page Builders-Divi | Elementor | WPBakery-9cf" alt="Page Builders">
-  <img src="https://img.shields.io/badge/E-Comm Platforms-Shopify | Wix-ff69b4" alt="E-Comm">
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+---
+
+### 💼 Professional Experience
+
+<details>
+<summary><b>Web Developer Intern @ Whole New Level</b> (Aug 2023 - Present)</summary>
+  
+- Built & maintained 15+ WordPress sites including CFT and CCRSM projects  
+- Implemented e-commerce solutions using WooCommerce  
+- Performed site migrations and performance optimizations  
+- **Tech Stack**: WordPress | Divi/Elementor | JavaScript | MySQL  
+</details>
+
+<details>
+<summary><b>Front-end Developer Intern @ Ahen Pvt. Ltd.</b> (Dec 2022 - Jan 2023)</summary>
+
+- Developed responsive UIs with React following modern UX principles  
+- Implemented state management for complex web applications  
+- Collaborated in agile team environment  
+- **Tech Stack**: React | JavaScript | CSS3  
+</details>
+
+---
+
+### 🚀 Highlight Projects
+
+<details>
+<summary><b>To-Do App with CI/CD Pipeline</b></summary>
+  
+- Automated deployment using Jenkins & Docker  
+- Containerized application with Docker Compose  
+- **Tech**: Node.js | Express | EJS | Jenkins | Docker  
+</details>
+
+<details>
+<summary><b>Indian Sign Language Recognition System</b></summary>
+
+- Developed RNN model achieving 92% accuracy  
+- Created custom Marathi language dataset  
+- **Tech**: Python | TensorFlow | OpenCV | Pandas  
+</details>
+
+<details>
+<summary><b>CineFlex Movie Booking System</b></summary>
+
+- Full-stack implementation with role-based access  
+- Real-time seat booking system with PHP/MySQL  
+- **Tech**: PHP | MySQL | Bootstrap | AJAX  
+</details>
+
+---
+
+### 📚 Education & Achievements
+
+- **B.E. Computer Engineering**  
+  AISSMS COE, Pune | CGPA: 8.85 (2020-2024)  
+
+- **Publications**  
+  ▶︎ Indian Sign Language Recognition (JOT Journal, 2024)  
+  ▶︎ CNN Inception V3 Review (IJRASET, 2024)  
+
+- **Leadership**  
+  ⚡ Technical Team Member - Startup & Innovation Club  
+  ⚡ Event Head - Overtime Aces Tech Fest  
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gspagare&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gspagare&theme=radical" />
 </p>
 
-**Tools & Utilities**  
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/DB Tools-MySQL Workbench | XAMPP-informational" alt="DB Tools">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gspagare&layout=compact&theme=radical" />
 </p>
 
-**Core Competencies**  
-![DSA](https://img.shields.io/badge/Problem%20Solving-DSA%20Expert-important)
-![OOP](https://img.shields.io/badge/Architecture-OOP%20Principles-blueviolet)
-![Teamwork](https://img.shields.io/badge/Collaboration-Team%20Leadership-brightgreen)
-![Analytics](https://img.shields.io/badge/Analytics-Data%20Driven%20Solutions-blue)
-<h3>Featured Projects</h3>
+---
 
-🔨 **To-Do App with CI/CD**  
-Automated deployment using Jenkins & Docker | Node.js | Express.js | Docker Compose  
-🌐 **CineFlex Ticket Booking**  
-Full-stack system with PHP/MySQL | Bootstrap | AJAX  
-🤟 **Sign Language Recognition**  
-RNN-based DL model | TensorFlow | Marathi localization  
-🍔 **Multi-Restaurant Food Ordering**  
-Role-based dashboards | PHP/MySQL | JavaScript  
-
-<h3>Education & Achievements</h3>
-
-🎓 **B.E. in Computer Engineering**  
-AISSMS College of Engineering, Pune | CGPA: 8.85 (2020-2024)  
-📚 **Publications**  
-- Indian Sign Language Recognition (Journal of Technology, May 2024)  
-- CNN Inception V3 Review (IJRASET, Feb 2024)  
-🌟 **Leadership**  
-Technical Team Member - Startup & Innovation Club | Event Head - Overtime Aces  
-
-<h3>GitHub Insights</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gspagare&show_icons=true&theme=radical" alt="gspagare" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gspagare&layout=compact&theme=radical" alt="gspagare" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gspagare&theme=radical" alt="gspagare" /></p>
-
-*"Turning coffee into code since 2020"* ☕→⌨️
+<p align="center"> 
+  <i>Let's connect and build something amazing!</i> 😄
+</p>
